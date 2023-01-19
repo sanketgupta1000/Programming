@@ -3,3 +3,4 @@ There will be notes in all files.
 The types of file include the follwing but not limited to:
 ->DSA
 ->Good Problems
+->Some concepts of OS
